@@ -1,5 +1,7 @@
 import { Header } from "@/cpmponents/Header";
-import { TaskInput } from "../../components/TaskInput";
+import { TaskInput } from "@/components/TaskInput";
+import { Task } from "@/conponents/Task";
+import { Footer } from "@/conponents/Footer";
 
 export default function Home() {
   return (
